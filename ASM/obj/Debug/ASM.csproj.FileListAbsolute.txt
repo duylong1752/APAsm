@@ -1,0 +1,6 @@
+E:\HocTap\AdvancedProgramming\ASM\ASM\bin\Debug\ASM2.exe.config
+E:\HocTap\AdvancedProgramming\ASM\ASM\bin\Debug\ASM2.exe
+E:\HocTap\AdvancedProgramming\ASM\ASM\bin\Debug\ASM2.pdb
+E:\HocTap\AdvancedProgramming\ASM\ASM\obj\Debug\ASM.csprojAssemblyReference.cache
+E:\HocTap\AdvancedProgramming\ASM\ASM\obj\Debug\ASM2.exe
+E:\HocTap\AdvancedProgramming\ASM\ASM\obj\Debug\ASM2.pdb
