@@ -84,7 +84,7 @@ namespace ASM2
                             }
                             catch
                             {
-                                Console.WriteLine("DOB must be: dd/mm/yyyy");
+                                Console.WriteLine("DOB is not valid");
                             }
                         }
                     }
@@ -195,7 +195,7 @@ namespace ASM2
                             }
                             catch
                             {
-                                Console.WriteLine("DOB must be: dd/mm/yyyy");
+                                Console.WriteLine("DOB is not valid");
                             }
 
                         }
